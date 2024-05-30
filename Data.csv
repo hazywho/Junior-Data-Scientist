@@ -1,0 +1,16 @@
+Country ,Age,Salary,Purchased
+Malaysia,34,4500,Yes
+China,22,5200,Yes
+Hong Kong,31,7400,Yes
+China,29,,No
+Hong Kong,55,9800,Yes
+Malaysia,24,3000,
+China,28,4000,No
+Malaysia,,6000,No
+Hong Kong,51,6500,Yes
+Malaysia,44,7800,Yes
+Singapore,21,2000,Yes
+Hong Kong,25,6000,Yes
+Malaysia,33,4500,Yes
+Malaysia,42,6500,Yes
+China,33,2200,Yes
